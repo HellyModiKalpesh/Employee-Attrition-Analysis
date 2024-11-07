@@ -42,7 +42,6 @@ Programs: Implement programs that promote a healthier work-life balance, includi
 Mentorship and Training: Offer career advancement opportunities through mentorship, leadership development, and regular skill enhancement programs, especially targeting employees in their first 2-3 years.
 
 3. **Competitive Compensation**
-
 Salary Adjustments: Address salary dissatisfaction by providing competitive raises and bonus structures that align with market standards.
 
 4. **Education Alignment**
