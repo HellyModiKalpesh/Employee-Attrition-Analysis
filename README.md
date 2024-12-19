@@ -1,5 +1,8 @@
 # Employee-Attrition-Analysis
 
+## Live Dashboard
+[View the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYTQ5NTNiMDAtYzdhYi00NTZjLWJlYjItOGE4MDczY2U4MjM0IiwidCI6ImZlMzQ2NjBjLWI3MjgtNDI0NC05MDRhLTUwNDg4MTNjZjIzMCJ9)
+
 ## Overview
 This project analyzes employee attrition data to identify key factors contributing to turnover within an organization. Using Power BI, this analysis provides insights into demographic and job-related characteristics of employees who leave, with strategic recommendations to help HR teams enhance retention and reduce attrition rates.
 
